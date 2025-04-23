@@ -77,4 +77,4 @@ API is documented using Postman, and the collection is available in the docs/ fo
 	•	Chinook Database reference: Chinook GitHub Repo
 
  #👨‍🎓 Author
-- Ahmet Emir Arslan
+ :Ahmet Emir Arslan
