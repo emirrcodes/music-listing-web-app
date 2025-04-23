@@ -71,9 +71,10 @@ Visit: http://localhost:3000
 
 API is documented using Postman, and the collection is available in the docs/ folder. You can also use Swagger (if applicable).
 
-#📌 Notes
+# 📌 Notes
 	•	The application is not deployed, as per requirements.
 	•	Hosted on GitHub only.
 	•	Chinook Database reference: Chinook GitHub Repo
 
- #👨‍🎓 Author : Ahmet Emir Arslan
+ # 👨‍🎓 Author
+ Ahmet Emir Arslan
